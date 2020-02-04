@@ -1,3 +1,6 @@
+# some testing code around multiprocessing
+# https://www.youtube.com/watch?v=fKl2JW_qrso
+
 import multiprocessing
 import time
 #revise to include the use of running multiprocessing in main()
